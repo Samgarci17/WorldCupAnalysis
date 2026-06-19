@@ -10,7 +10,7 @@ wc_2026_teams — VSC from Kaggle dataset, description "48 qualified teams Group
 wc_2026_ranking.csv — query exported as CSV from wc_2026_teams, used to create difficulty ranking dashboard
 
 Tableau Dashboard
-![Group Difficulty Dashboard](images/group-difficulty.png)
+![Group Difficulty Dashboard](https://github.com/Samgarci17/WorldCupAnalysis/blob/327661b2bd7c59661b4f7dc474ad355233d3321d/Screenshot%202026-06-19%20040313.png)
 
 Group Difficulty Ranking —
 Team Detail —
