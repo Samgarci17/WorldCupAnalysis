@@ -11,7 +11,7 @@ wc_2026_ranking.csv — query exported as CSV from wc_2026_teams, used to create
 
 Tableau Dashboard
 ![Group Difficulty Dashboard](https://github.com/Samgarci17/WorldCupAnalysis/blob/327661b2bd7c59661b4f7dc474ad355233d3321d/Screenshot%202026-06-19%20040313.png)
-
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/wcBOOK/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Group Difficulty Ranking —
 Team Detail —
 Debut Team Highlight —
