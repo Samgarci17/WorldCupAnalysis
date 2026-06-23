@@ -17,3 +17,5 @@ Key Insight
 
 Group F appears to be the hardest group since they have the second smallest SD while also having two high-ranked teams in Japan and the Netherlands. I would rank them first over group B because of the difference in the two top teams in the group. Group E is another sneaky group because Curacao is ranked 81st bringing down the group average and the group SD, without Curacao
 group E is ranked first in difficulty among the groups. The exact same situation happens with group G and New Zealand. When NZ is excluded from group G they jump up to the highest difficulty group over group E. 
+
+![Group Difficulty Dashboard](https://github.com/Samgarci17/WorldCupAnalysis/blob/main/Screenshot%202026-06-22%20201038.png)
